@@ -1,0 +1,12 @@
+**********************************************
+			SpaceBuilder : Genesis
+				
+		Copyright © 2014 Dark Anvil
+		  http://www.darkanvil.com
+
+		contact@darkanvil.com
+**********************************************
+Unity no longer notifie when you use Save AS, you need to do a simple save after a save as.
+
+
+

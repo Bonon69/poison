@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: vulcanoPlanet
+  m_Shader: {fileID: 4800000, guid: 92fdfb3c8891dba47944fdbc670c3764, type: 3}
+  m_ShaderKeywords: _ONLYSHADOW_ON _PULSATION_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DiffuseMap:
+        m_Texture: {fileID: 2800000, guid: 99a360a05057c8744899554658cdf61e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 2800000, guid: 9cde1e25d3c15f84388a435a440ff65d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 5547d0635f8325c4886c0b8b31e2244f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AtmFullBright: 0
+    - _AtmPower: 3.125
+    - _AtmSize: 0.5
+    - _DiffusePower: 0.8928572
+    - _EmissionFallOff: 0
+    - _EnableAmbient: 0
+    - _FullBright: 0
+    - _Intensity: 0.2
+    - _MaxIntensity: 2.232143
+    - _MinIntensity: 1.6964285
+    - _OnlyShadow: 1
+    - _Pulsation: 1
+    - _PulsationSpeed: 1
+    m_Colors:
+    - _AtmColor: {r: 0.24264705, g: 0.053204335, b: 0.0017841712, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
